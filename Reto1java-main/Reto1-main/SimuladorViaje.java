@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class SimuladorViaje {
     private static final Planeta[] planetas = {
-        new Planeta("Mercurio", 91.7, "El planeta más cercano al sol."),
+        new Planeta("luna ", 91.7, "El planeta más cercano al sol."),
         new Planeta("Venus", 41.4, "El planeta más parecido a la Tierra."),
         new Planeta("Marte", 225, "El planeta rojo."),
         new Planeta("Júpiter", 778, "El gigante gaseoso."),
